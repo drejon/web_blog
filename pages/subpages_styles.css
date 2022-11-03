@@ -1,0 +1,66 @@
+html {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+body {
+    margin: 0;
+    background-color: rgb(220, 209, 196);
+}
+
+img {
+    width: 400px;
+}
+header {
+    background-color:rgb(48, 71, 91);
+    color: white;
+    padding: 1rem;
+}
+
+.container {
+    width: auto;
+}
+
+section article {
+    background-color:rgb(57, 73, 87);
+    color: white;
+    margin: 1rem 1rem;
+    border-radius: 1rem; 
+    padding: 0.5rem 0;
+    
+}
+
+section article p, h2, img {
+    background-color:rgb(57, 73, 87);
+    color: white;
+    margin: 1rem;
+}
+
+footer {
+    background-color: rgb(33, 48, 62);
+    padding: 1rem;
+    margin-bottom: 0rem;
+    width: auto;
+    height: 1rem;
+}
+
+footer section a{
+    float: right;
+}
+
+footer p, footer a {
+    transition: 0.5s;
+    margin: 0 1rem;
+    text-align: left;
+    color:white;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color:rgb(142, 170, 201)
+
+}
+
+.block {
+    text-decoration: none;
+    color: white;
+}
