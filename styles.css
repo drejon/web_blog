@@ -30,9 +30,6 @@ section article {
     background-color:rgb(57, 73, 87);
     margin: 1rem 0;
     border-radius: 1rem; 
-    padding: 0.5rem 0;
-    text-decoration: none;
-    
 }
 
 section article:hover {
